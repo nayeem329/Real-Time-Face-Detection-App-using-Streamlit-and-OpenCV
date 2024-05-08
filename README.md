@@ -31,7 +31,7 @@ This project is a real-time face detection application built using Streamlit and
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/real-time-face-detection.git
+   git clone https://github.com/nayeem329/real-time-face-detection.git
 2. Install the required Python packages:
 ```bash
 pip install -r requirements.txt
